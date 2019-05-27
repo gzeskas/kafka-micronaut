@@ -1,0 +1,5 @@
+profile: service
+defaultPackage: lt.gzeskas.kafka.streams
+---
+testFramework: junit
+sourceLanguage: java
